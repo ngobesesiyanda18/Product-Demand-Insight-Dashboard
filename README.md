@@ -47,4 +47,4 @@ Creating DAX measures for business KPIs
 Building interactive Power BI dashboards
 Data visualization and storytelling
 ## Project Preview
-[Demand & Inventory Analytics Dashboard](images/dashboard1.png) <img src="images/dashboard1.png" width="1000">
+(images/dashboard1.png) <img src="images/dashboard1.png" width="1000">
