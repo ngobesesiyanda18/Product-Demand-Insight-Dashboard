@@ -47,4 +47,4 @@ Creating DAX measures for business KPIs
 Building interactive Power BI dashboards
 Data visualization and storytelling
 ## Project Preview
-[Dashboard](dashboard1.png)
+![image alt](
