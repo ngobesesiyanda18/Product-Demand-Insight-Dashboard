@@ -19,7 +19,7 @@ Identification of high-demand locations
 Ranked list of products by demand
 Includes units sold, price, and inventory levels
 ## Interactive Filters (Slicers)
-Region
+Region 
 Category
 Seasonality
 ## Tools & Technologies
@@ -27,7 +27,7 @@ Power BI
 DAX (Data Analysis Expressions)
 Power Query
 CSV Dataset
-## Dataset**
+## Dataset
 The dataset used in this project (demand_forecasting.csv) contains:
 Product demand records
 Units sold data
