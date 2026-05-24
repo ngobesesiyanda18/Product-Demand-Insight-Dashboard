@@ -46,4 +46,6 @@ Data cleaning and transformation using Power Query
 Creating DAX measures for business KPIs
 Building interactive Power BI dashboards
 Data visualization and storytelling
-Supply chain and demand analysis
+## Project Preview
+[Demand & Inventory Analytics Dashboard](images/dashboard1.png)
+<img src="images/dashboard1.png" width="1000">
