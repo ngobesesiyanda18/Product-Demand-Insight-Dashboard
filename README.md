@@ -49,3 +49,6 @@ Data visualization and storytelling
 ## Project Preview
 ![image alt](https://github.com/ngobesesiyanda18/Product-Demand-Insight-Dashboard/blob/b6aa70ea5e2d3c0b44fae1fc1c7f07bd065db297/dashboard1.png.png)
 ![image](https://github.com/ngobesesiyanda18/Product-Demand-Insight-Dashboard/blob/f4a030772561cd42b165c547690a64df839c580b/dashboard2.png.png)
+##Author
+Siyanda Ngobese
+Business Intelligence Intern
