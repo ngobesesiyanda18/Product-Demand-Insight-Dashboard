@@ -47,4 +47,4 @@ Creating DAX measures for business KPIs
 Building interactive Power BI dashboards
 Data visualization and storytelling
 ## Project Preview
-![image alt](
+![image alt](https://github.com/ngobesesiyanda18/Product-Demand-Insight-Dashboard/blob/b6aa70ea5e2d3c0b44fae1fc1c7f07bd065db297/dashboard1.png.png)
